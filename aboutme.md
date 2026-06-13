@@ -4,86 +4,88 @@ title: About Me
 permalink: /resume/
 ---
 
-<div class="profile-card">
-  <img src="images/introplot.png" alt="Lisanne Blok" class="profile-image">
+<div class="cv-layout">
 
-  <div>
-    <h2>Hi, I'm Lisanne Blok</h2>
+  <aside class="sidebar">
 
-    <p>
-      I am a PhD student researching extreme sea level and coastal flooding.
-      I am passionate about applying scientific evidence to policy-making and
-      helping communities become more resilient to environmental risks.
-    </p>
+    <img src="/images/introplot.png"
+         alt="Lisanne Blok"
+         class="profile-pic">
+
+    <h2>Lisanne Blok</h2>
 
     <p>
-      My interests focus on the science-policy interface:
-      How political is policy? How can scientists generate policy-relevant
-      evidence? How can scientific findings be communicated most effectively?
+      PhD Student<br>
+      AI for Environmental Risk<br>
+      University of Cambridge
     </p>
-  </div>
-</div>
 
-<div class="card">
-<h2>Experience</h2>
+    <h3>Links</h3>
 
-<ul>
-<li>PhD Intern, Defra UK Government (2026)</li>
-<li>Bangladesh Heat Waves Research Placement, Imperial College London</li>
-<li>Social Cost of Carbon Intern, Grantham Institute</li>
-<li>Summer Placement, Institute of Economic Affairs</li>
-</ul>
-</div>
+    <ul>
+      <li><a href="mailto:lb962@cam.ac.uk">Email</a></li>
+      <li><a href="https://orcid.org/0009-0006-5944-4169">ORCID</a></li>
+      <li><a href="https://github.com/lisanne-blok">GitHub</a></li>
+      <li><a href="https://linkedin.com">LinkedIn</a></li>
+    </ul>
 
-<div class="card">
-<h2>Education</h2>
+    <h3>Skills</h3>
 
-<ul>
-<li>PhD in Artificial Intelligence for Environmental Risk — University of Cambridge</li>
-<li>MRes in Environmental Data Science — University of Cambridge</li>
-<li>BSc in Geophysics — Imperial College London</li>
-</ul>
-</div>
+    <ul>
+      <li>Python</li>
+      <li>R</li>
+      <li>Data Analysis</li>
+      <li>Policy Analysis</li>
+      <li>Public Speaking</li>
+    </ul>
 
-<div class="card">
-<h2>Skills</h2>
+  </aside>
 
-<ul>
-<li>Python</li>
-<li>R</li>
-<li>Excel</li>
-<li>Scientific Communication</li>
-<li>Policy Analysis</li>
-<li>Public Speaking</li>
-<li>Languages: Dutch & English (Fluent), German & French (B2)/li>
-</ul>
-</div>
+  <main class="content">
 
-<div class="card">
-<h2>Research Projects</h2>
+    <section>
+      <h2>About Me</h2>
 
-<ul>
-<li>Marine Litter: Abundance, Impact and Policy Implications (2026)</li>
-<li>Classification and Drivers of Surge Regimes (2025)</li>
-<li>Extreme Sea Level Variability (2025)</li>
-<li>Earthquake Impact Assessment in Myanmar (2025)</li>
-<li>Ocean Turbulence Estimation Using Deep Learning (2023)</li>
-<li>Building Damage Estimation from Hurricanes (2023)</li>
-</ul>
-</div>
+      <p>
+        I am a PhD student researching extreme sea level and coastal flooding.
+        My work focuses on generating evidence that can support policy-making
+        and improve resilience to environmental hazards.
+      </p>
+    </section>
 
-<div class="card">
-<h2>Publications</h2>
+    <section>
+      <h2>Experience</h2>
 
-<a href="https://orcid.org/0009-0006-5944-4169">
-ORCID Profile
-</a>
-</div>
+      <ul>
+        <li><strong>Defra UK Government</strong> — PhD Intern (2026)</li>
+        <li><strong>Imperial College London</strong> — Bangladesh Heatwaves Placement</li>
+        <li><strong>Grantham Institute</strong> — Social Cost of Carbon Internship</li>
+        <li><strong>Institute of Economic Affairs</strong> — Summer Placement</li>
+      </ul>
+    </section>
 
-<div class="card">
-<h2>Outside Research</h2>
+    <section>
+      <h2>Education</h2>
 
-<p>
-I enjoy sailing, rowing, and spending time on the water.
-</p>
+      <ul>
+        <li>PhD, AI for Environmental Risk — Cambridge</li>
+        <li>MRes Environmental Data Science — Cambridge</li>
+        <li>BSc Geophysics — Imperial</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Research Projects</h2>
+
+      <ul>
+        <li>Marine Litter and Policy Implications</li>
+        <li>Drivers of Surge Regimes</li>
+        <li>Extreme Sea Level Variability</li>
+        <li>Earthquake Impact Assessment in Myanmar</li>
+        <li>Ocean Turbulence using Deep Learning</li>
+      </ul>
+    </section>
+
+  </main>
+
 </div>
