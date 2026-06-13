@@ -3,47 +3,87 @@ layout: page
 title: About Me
 permalink: /resume/
 ---
-<table>
-  <tr>
-    <td>
-      <img src="images/introplot.png" alt="Lisanne Blok" width="400">
-    </td>
-    <td>
-      Welcome to my blog! I am Lisanne Blok, and I am a PhD student researching extreme sea level and coastal flooding. 
-I am very interested in applying the evidence from my work to policy-making and protecting local communities. 
-I have experience from a policy and a policy side, and have a lot of interests and questions on the science-to-policy gap, such as "how political is policy", "how can scientists generate policy-relevant evidence", and "how do you present science most effectively".
-Please follow along in my journey to answer these questions, but also to curiously open more doors.
-    </td>
-  </tr>
-</table>
 
+<div class="profile-card">
+  <img src="images/introplot.png" alt="Lisanne Blok" class="profile-image">
 
-### **Experience**
-- PhD Intern at the Defra, UK government (May 2026-August 2026)
-- Bangladesh Heat Waves research placement at Imperial
-- Social Cost of Carbon internship at the Grantham Institute
-- Summer Placement at the Institute of Economic Affairs
+  <div>
+    <h2>Hi, I'm Lisanne Blok</h2>
 
-### **Education**
-- (currently) PhD in Artificial Intelligence for Environmental Risk - the University of Cambridge
-- MRes in Environmental Data Science - University of Cambridge
-- BSc in Geophysics - Imperial College London
+    <p>
+      I am a PhD student researching extreme sea level and coastal flooding.
+      I am passionate about applying scientific evidence to policy-making and
+      helping communities become more resilient to environmental risks.
+    </p>
 
+    <p>
+      My interests focus on the science-policy interface:
+      How political is policy? How can scientists generate policy-relevant
+      evidence? How can scientific findings be communicated most effectively?
+    </p>
+  </div>
+</div>
 
-### **Skills**
-- **Data analysis**: Python, RStudio, Excel
-- **Public Speaking**: Clear Communicator Award (ELLIS Jena 2025), Various Conferences (EGU 2024, Climate Symposium 2026)
+<div class="card">
+<h2>Experience</h2>
 
-### **Projects and Research Interests**
-- Publications: https://orcid.org/0009-0006-5944-4169
-- Abundance, Impact and Policy Implications of Marine Litter (2026, Defra, UK Government)
-- Classification and Drivers of Surge Regimes (2025, University of Cambridge)
-- Spatiotemporal variability of Extreme Sea Level in the Northwestern European Shelf (2025, University of Cambridge)
-- Earthquake Impact Assessment in Myanmar using Earth Observation Data (2025, University of Cambridge)
-- Ocean Turbulence Estimation Using Deep Learning (2023, University of Cambridge)
-- Building Damage Estimation due to Hurricanes using Deep Learning (2023, University of Cambridge)
-- Heatwave Variability in Bangladesh (2022, Imperial College London)
-- Country-level Social Cost of Carbon (2021, Grantham Institute)
+<ul>
+<li>PhD Intern, Defra UK Government (2026)</li>
+<li>Bangladesh Heat Waves Research Placement, Imperial College London</li>
+<li>Social Cost of Carbon Intern, Grantham Institute</li>
+<li>Summer Placement, Institute of Economic Affairs</li>
+</ul>
+</div>
 
-## **Interests**
-I love water sports, like sailing and rowing!!
+<div class="card">
+<h2>Education</h2>
+
+<ul>
+<li>PhD in Artificial Intelligence for Environmental Risk — University of Cambridge</li>
+<li>MRes in Environmental Data Science — University of Cambridge</li>
+<li>BSc in Geophysics — Imperial College London</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Skills</h2>
+
+<ul>
+<li>Python</li>
+<li>R</li>
+<li>Excel</li>
+<li>Scientific Communication</li>
+<li>Policy Analysis</li>
+<li>Public Speaking</li>
+<li>Languages: Dutch & English (Fluent), German & French (B2)/li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Research Projects</h2>
+
+<ul>
+<li>Marine Litter: Abundance, Impact and Policy Implications (2026)</li>
+<li>Classification and Drivers of Surge Regimes (2025)</li>
+<li>Extreme Sea Level Variability (2025)</li>
+<li>Earthquake Impact Assessment in Myanmar (2025)</li>
+<li>Ocean Turbulence Estimation Using Deep Learning (2023)</li>
+<li>Building Damage Estimation from Hurricanes (2023)</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Publications</h2>
+
+<a href="https://orcid.org/0009-0006-5944-4169">
+ORCID Profile
+</a>
+</div>
+
+<div class="card">
+<h2>Outside Research</h2>
+
+<p>
+I enjoy sailing, rowing, and spending time on the water.
+</p>
+</div>
