@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Having witnessed the huge science-to-policy translation gap from an academic and a government perspective, this blog shares my reflections!
 
-Maybe say a some things about yourself.
+On the website, you can find posts on discussions I've had with practitioners, scientists, policy-makers, and academics, and I'd also love to hear about your thoughts!
 
-Or maybe what you plan to blog about.
+It requires evidence-based policymaking to solve the biggest challenges of our generation, ranging from the climate and overpopulation crises, to housing and immigration.
