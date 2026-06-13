@@ -3,7 +3,7 @@
 layout: page
 title: About Me
 permalink: /resume/
--------------------
+---
 
 <div class="cv-layout">
 
