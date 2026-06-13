@@ -4,7 +4,7 @@ title: "Usable science"
 date: 2026-06-13
 thumbnail: /images/chapman.png
 keywords: [usability, conference]
-excerpt: "Reflections on a conference for "usable" sea level projections"
+excerpt: "Reflections on a conference for usable sea level projections"
 ---
 
 <style>
