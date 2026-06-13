@@ -3,12 +3,22 @@ layout: page
 title: About Me
 permalink: /resume/
 ---
-
-# **About Me**
-Hi! I am Lisanne Blok, and I am a PhD student researching extreme sea level and coastal flooding. 
+<table>
+  <tr>
+    <td>
+      <img src="images/introplot.png" alt="Lisanne Blok" width="200">
+    </td>
+    <td>
+      <b>Your Heading Here</b><br>
+      Hi! I am Lisanne Blok, and I am a PhD student researching extreme sea level and coastal flooding. 
 I am very interested in applying the evidence from my work to policy-making and protecting local communities. 
 I have experience from a policy and a policy side, and have a lot of interests and questions on the science-to-policy gap, such as "how political is policy", "how can scientists generate policy-relevant evidence", and "how do you present science most effectively".
 Please follow along in my journey to answer these questions, but also to curiously open more doors.
+    </td>
+  </tr>
+</table>
+
+
 
 ## **Experience**
 
