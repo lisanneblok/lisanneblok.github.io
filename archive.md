@@ -3,13 +3,15 @@ layout: page
 title: Blog Archive
 ---
 
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
+{%- assign all_keywords = site.posts | map: "keywords" | flatten | uniq | sort -%}
+
+{% for keyword in all_keywords %}
+  <h3 id="{{ keyword | slugify }}">{{ keyword }}</h3>
   <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+    {% for post in site.posts %}
+      {% if post.keywords contains keyword %}
+        <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} — {{ post.title }}</a></li>
+      {% endif %}
     {% endfor %}
   </ul>
 {% endfor %}
-
-<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
