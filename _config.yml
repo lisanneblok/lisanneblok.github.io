@@ -29,6 +29,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+header_pages:
+  - unrelated.md
+
 titles_from_headings:
   strip_title: true
   collections: true
