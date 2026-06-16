@@ -75,6 +75,15 @@ layout: default
     margin: 0;
   }
 
+  .intro-card__photo {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+
   /* Navigation cards (About Me / Archive) */
   .nav-card {
     background: var(--card-bg);
@@ -311,7 +320,12 @@ layout: default
     </a>
 
   </div>
-
+  
+  <div class="intro-card">
+    <img class="intro-card__photo" src="/images/introplot.png" alt="Lisanne Blok">
+    {{ content }}
+  </div>
+  
   <!-- ── Latest posts ── -->
   <div class="section-header">
     <span>Latest Posts</span>
