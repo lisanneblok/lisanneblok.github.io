@@ -11,3 +11,5 @@ title: Blog Archive
     {% endfor %}
   </ul>
 {% endfor %}
+
+<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
