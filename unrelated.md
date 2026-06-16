@@ -1,6 +1,6 @@
 ---
 layout: page
-
+title: Unrelated Thoughts
 permalink: /unrelated/
 ---
 
