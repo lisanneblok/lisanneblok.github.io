@@ -287,7 +287,9 @@ layout: default
   </div>
 
 <!-- ── Top tags ── -->
-{%- assign all_tags = site.posts | map: "keywords" | flatten | group_by: "itself" | sort: "size" | reverse -%}
+{%- assign all_tags = site.posts | map: "keywords" | join: "," | split: "," -%}
+{%- assign all_tags = all_tags | uniq -%}
+
 <div style="margin-bottom: 1.5rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
   <span style="font-family: var(--font-ui); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent);">Browse by topic:</span>
   {%- for tag in all_tags limit: 3 -%}
