@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-
 <link href="/css/override.css" rel="stylesheet" type="text/css">
-
 <style>
   :root {
     --ink:       #1a2634;
@@ -17,7 +15,6 @@ layout: default
     --font-body: 'Georgia', serif;
     --font-ui:   system-ui, -apple-system, sans-serif;
   }
-
   .home-wrap {
     max-width: 960px;
     margin: 2rem auto;
@@ -25,7 +22,6 @@ layout: default
     font-family: var(--font-body);
     color: var(--ink);
   }
-
   /* ── Section label ── */
   .section-label {
     font-family: var(--font-ui);
@@ -38,7 +34,6 @@ layout: default
     padding-bottom: 0.4rem;
     border-bottom: 2px solid var(--accent-lt);
   }
-
   /* ── Quick-link row (intro card + about card + archive card) ── */
   .quick-grid {
     display: grid;
@@ -46,11 +41,9 @@ layout: default
     gap: 1.1rem;
     margin-bottom: 2.5rem;
   }
-
   @media (max-width: 700px) {
     .quick-grid { grid-template-columns: 1fr; }
   }
-
   /* Intro card (content from index.md) */
   .intro-card {
     background: var(--card-bg);
@@ -59,7 +52,6 @@ layout: default
     padding: 1.3rem 1.4rem;
     box-shadow: 0 2px 6px rgba(27,107,138,0.06);
   }
-
   .intro-card h1 {
     font-family: var(--font-ui);
     font-size: 1.1rem;
@@ -67,14 +59,12 @@ layout: default
     color: var(--ink);
     margin: 0 0 0.5rem;
   }
-
   .intro-card p, .intro-card li {
     font-size: 0.92rem;
     line-height: 1.65;
     color: var(--muted);
     margin: 0;
   }
-
   .intro-card__photo {
     width: 72px;
     height: 72px;
@@ -83,7 +73,6 @@ layout: default
     display: block;
     margin-bottom: 0.75rem;
   }
-
   /* Navigation cards (About Me / Archive) */
   .nav-card {
     background: var(--card-bg);
@@ -98,12 +87,10 @@ layout: default
     color: inherit;
     transition: box-shadow 0.2s, transform 0.2s;
   }
-
   .nav-card:hover {
     box-shadow: 0 6px 20px rgba(27,107,138,0.15);
     transform: translateY(-3px);
   }
-
   .nav-card__icon {
     width: 36px;
     height: 36px;
@@ -114,13 +101,11 @@ layout: default
     justify-content: center;
     margin-bottom: 0.75rem;
   }
-
   .nav-card__icon svg {
     width: 18px;
     height: 18px;
     stroke: var(--accent);
   }
-
   .nav-card__label {
     font-family: var(--font-ui);
     font-size: 0.7rem;
@@ -130,7 +115,6 @@ layout: default
     color: var(--accent);
     margin-bottom: 0.3rem;
   }
-
   .nav-card__title {
     font-family: var(--font-ui);
     font-size: 0.95rem;
@@ -138,7 +122,6 @@ layout: default
     color: var(--ink);
     margin-bottom: 0.4rem;
   }
-
   .nav-card__desc {
     font-family: var(--font-ui);
     font-size: 0.8rem;
@@ -146,7 +129,6 @@ layout: default
     line-height: 1.45;
     flex: 1;
   }
-
   .nav-card__arrow {
     font-family: var(--font-ui);
     font-size: 0.8rem;
@@ -155,7 +137,6 @@ layout: default
     margin-top: 0.9rem;
     align-self: flex-end;
   }
-
   /* ── Post card grid ── */
   .section-header {
     display: flex;
@@ -165,7 +146,6 @@ layout: default
     border-bottom: 2px solid var(--accent-lt);
     padding-bottom: 0.4rem;
   }
-
   .section-header span {
     font-family: var(--font-ui);
     font-size: 0.72rem;
@@ -174,7 +154,6 @@ layout: default
     text-transform: uppercase;
     color: var(--accent);
   }
-
   .archive-pill {
     font-family: var(--font-ui);
     font-size: 0.8rem;
@@ -187,28 +166,23 @@ layout: default
     padding: 0.2rem 0.75rem;
     transition: background 0.15s, color 0.15s;
   }
-
   .archive-pill:hover {
     background: var(--accent);
     color: #fff;
     border-color: var(--accent);
   }
-
   .post-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.1rem;
     margin-bottom: 2.5rem;
   }
-
   @media (max-width: 700px) {
     .post-grid { grid-template-columns: 1fr; }
   }
-
   @media (min-width: 701px) and (max-width: 900px) {
     .post-grid { grid-template-columns: repeat(2, 1fr); }
   }
-
   .post-card {
     background: var(--card-bg);
     border: 1px solid var(--border);
@@ -221,12 +195,10 @@ layout: default
     text-decoration: none;
     color: inherit;
   }
-
   .post-card:hover {
     box-shadow: 0 6px 20px rgba(27,107,138,0.15);
     transform: translateY(-3px);
   }
-
   .post-card__thumb {
     width: 100%;
     aspect-ratio: 16 / 9;
@@ -234,7 +206,6 @@ layout: default
     display: block;
     background: var(--accent-lt);
   }
-
   .post-card__thumb-placeholder {
     width: 100%;
     aspect-ratio: 16 / 9;
@@ -243,20 +214,17 @@ layout: default
     align-items: center;
     justify-content: center;
   }
-
   .post-card__thumb-placeholder svg {
     opacity: 0.3;
     width: 40px;
     height: 40px;
   }
-
   .post-card__body {
     padding: 0.9rem 1rem 1rem;
     display: flex;
     flex-direction: column;
     flex: 1;
   }
-
   .post-card__meta {
     font-family: var(--font-ui);
     font-size: 0.72rem;
@@ -266,7 +234,6 @@ layout: default
     text-transform: uppercase;
     margin-bottom: 0.4rem;
   }
-
   .post-card__title {
     font-family: var(--font-ui);
     font-size: 0.95rem;
@@ -279,16 +246,16 @@ layout: default
 </style>
 
 <div class="home-wrap">
-<img src="/images/banner.jpg" alt="Banner" style="width:100%; max-height:180px; object-fit:cover; border-radius:10px; margin-bottom:2rem; display:block;">
+  <img src="/images/banner.jpg" alt="Banner" style="width:100%; max-height:180px; object-fit:cover; border-radius:10px; margin-bottom:2rem; display:block;">
+
   <!-- ── Quick links row ── -->
   <p class="section-label">Welcome</p>
   <div class="quick-grid">
-
     <!-- Intro card: rendered from index.md content -->
     <div class="intro-card">
+      <img class="intro-card__photo" src="/images/introplot.png" alt="Lisanne Blok">
       {{ content }}
     </div>
-
     <!-- About Me card -->
     <a class="nav-card" href="{{ '/resume/' | relative_url }}">
       <div class="nav-card__icon">
@@ -303,7 +270,6 @@ layout: default
       <p class="nav-card__desc">Background, experience, education, and research interests.</p>
       <span class="nav-card__arrow">View →</span>
     </a>
-
     <!-- Archive card -->
     <a class="nav-card" href="{{ '/archive.html' | relative_url }}">
       <div class="nav-card__icon">
@@ -318,25 +284,17 @@ layout: default
       <p class="nav-card__desc">All writing, notes, and research updates.</p>
       <span class="nav-card__arrow">Browse →</span>
     </a>
+  </div>
 
-  </div>
-  
-  <div class="intro-card">
-    <img class="intro-card__photo" src="/images/introplot.png" alt="Lisanne Blok">
-    {{ content }}
-  </div>
-  
   <!-- ── Latest posts ── -->
   <div class="section-header">
     <span>Latest Posts</span>
     <a class="archive-pill" href="{{ '/archive.html' | relative_url }}">All posts →</a>
   </div>
-
   <div class="post-grid">
     {%- assign recent_posts = site.posts | limit: 6 -%}
     {%- for post in recent_posts -%}
     <a class="post-card" href="{{ post.url | relative_url }}">
-
       {%- if post.thumbnail -%}
         <img class="post-card__thumb"
              src="{{ post.thumbnail | relative_url }}"
@@ -355,7 +313,6 @@ layout: default
           </svg>
         </div>
       {%- endif -%}
-
       <div class="post-card__body">
         <p class="post-card__meta">
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -366,5 +323,4 @@ layout: default
     </a>
     {%- endfor -%}
   </div>
-
 </div>
