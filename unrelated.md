@@ -174,7 +174,7 @@ permalink: /unrelated/
     <p class="ut-hero__sub">
       Not everything worth saying is about science or policy. 
       Here's the rest of it — hobbies, books, half-formed opinions, 
-      and whatever else is on my mind.
+      and whatever else is on my mind (feminism, politics, sports).
     </p>
   </div>
 
@@ -185,22 +185,22 @@ permalink: /unrelated/
       <div class="ut-now-card">
         <div class="ut-now-card__icon">📖</div>
         <p class="ut-now-card__label">Reading</p>
-        <p class="ut-now-card__value">Your book here</p>
+        <p class="ut-now-card__value">"Goddesses in Greek Myth"</p>
       </div>
       <div class="ut-now-card">
         <div class="ut-now-card__icon">🎵</div>
         <p class="ut-now-card__label">Listening to</p>
-        <p class="ut-now-card__value">Your artist / album here</p>
+        <p class="ut-now-card__value">Alex Warren, and my own songs!</p>
       </div>
       <div class="ut-now-card">
         <div class="ut-now-card__icon">🌍</div>
         <p class="ut-now-card__label">Last travelled to</p>
-        <p class="ut-now-card__value">Somewhere nice</p>
+        <p class="ut-now-card__value">Dublin, and Montréal</p>
       </div>
       <div class="ut-now-card">
         <div class="ut-now-card__icon">🧪</div>
         <p class="ut-now-card__label">Cooking / making</p>
-        <p class="ut-now-card__value">Something delicious</p>
+        <p class="ut-now-card__value">Follow me: https://www.instagram.com/lisannecambridge/)</p>
       </div>
     </div>
   </div>
@@ -209,14 +209,13 @@ permalink: /unrelated/
   <div class="ut-section">
     <p class="ut-section__label">Things I do for fun</p>
     <div class="ut-prose">
-      <p>Write a sentence or two about your hobbies here. What do you actually spend your free time on?</p>
+      <p>Even though my PhD and work are water-related, I also like to spend my free time there!</p>
     </div>
     <div class="ut-tags">
-      <span class="ut-tag">🏔️ Hiking</span>
-      <span class="ut-tag">📷 Photography</span>
+      <span class="ut-tag">🚣 Rowing</span>
+      <span class="ut-tag">⛵ Sailing</span>
       <span class="ut-tag">🍳 Cooking</span>
-      <span class="ut-tag">🎾 Tennis</span>
-      <span class="ut-tag">✏️ Add your own</span>
+      <span class="ut-tag">🎤🎸 Writing and playing music</span>
     </div>
   </div>
 
@@ -226,38 +225,38 @@ permalink: /unrelated/
     <ul class="ut-list">
       <li>
         <strong>On something cultural</strong>
-        A short take or observation — keep it light, keep it you.
+        What role should young men and women play for feminism, and what discussions are the first one to be had? And should politics and men "protect" women from objectification, or is that a choice the women can make themselves?
       </li>
       <li>
         <strong>On something everyday</strong>
-        Another small opinion. These can be funny, earnest, or both.
+        Should we be watching the FIFA world cup with its corruption and political implications, where fans aren't even let into the country?
       </li>
       <li>
         <strong>On something you've changed your mind about</strong>
-        Optional but always interesting.
+        The fact that you don't always have to say yes to every opportunity, and that self-care and time alone can be as valuable as the dinner/conference/travel you'd be missing out on.
       </li>
     </ul>
   </div>
 
-  <!-- Recommendations -->
+ <!-- Recommendations -->
   <div class="ut-section">
     <p class="ut-section__label">Things worth your time</p>
     <ul class="ut-list">
       <li>
         <strong>A book</strong>
-        Title — Author. One sentence on why you'd recommend it.
+        Yesteryear - Claro Clare Burke. Thoughts on trad wives?
       </li>
       <li>
         <strong>A film or series</strong>
-        Title. What kind of person would love it?
+        Salt, Fat, Acid, Heat on the most important considerations for making flavourful food!
       </li>
       <li>
         <strong>A recipe</strong>
-        What is it, and why does it work every time?
+        Creamy tomato orzo, as it mostly uses cupboard items and takes up 20 minutes of your time!
       </li>
       <li>
         <strong>Something online</strong>
-        A newsletter, a podcast, a weird corner of the internet.
+        World in data, where statistics drive policy analysis (https://ourworldindata.org/)
       </li>
     </ul>
   </div>
