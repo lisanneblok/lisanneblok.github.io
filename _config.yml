@@ -30,6 +30,8 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
+  - aboutme.md
+  - archive.md
   - unrelated.md
 
 titles_from_headings:
