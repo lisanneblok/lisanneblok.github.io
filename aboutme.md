@@ -118,9 +118,9 @@ permalink: /resume/
   }
 
   /* ── Card grid ── */
-  .card-grid {
+   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
     margin-bottom: 2rem;
   }
@@ -298,6 +298,7 @@ permalink: /resume/
         <li>PhD AI for Environmental Risk — Cambridge</li>
         <li>MRes Environmental Data Science — Cambridge</li>
         <li>BSc Geophysics — Imperial College London</li>
+        <li>English, German, and French language certificates</li>
       </ul>
     </div>
 
