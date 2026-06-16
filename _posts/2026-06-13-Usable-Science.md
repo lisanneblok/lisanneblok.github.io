@@ -90,7 +90,7 @@ excerpt: "Reflections on a conference for usable sea level projections"
 </figure>
 
 ## Usable science
-Last week, I attended a conference on "usable" sea level projections. The conference was attended by a range of practitioners (translators of science to local communities and councils), scientists, and NGO's. It started off as a large conference with the authors of the International Panel of Climate Change report, but quickly raised questions on how this science could be presented. The scientists quickly understood that "low confidence, high likelihood", and a unlikely worst-case scenario, might also be confusing to us. The real questions arised: what complexity, and how much detail, should be included to inform policy-makers?
+Last week, I attended a conference on "usable" sea level projections. The conference was attended by a range of practitioners (translators of science to local communities and councils), scientists, and NGO's. It started off as a large conference with the authors of the International Panel of Climate Change report, but quickly raised questions on how this science could be presented. The scientists quickly understood that "low confidence, high likelihood", and an unlikely worst-case scenario, might also be confusing to us. The real questions arised: what complexity, and how much detail, should be included to inform policy-makers?
 
 <div style="clear:both"></div>
 
@@ -99,19 +99,29 @@ Last week, I attended a conference on "usable" sea level projections. The confer
 #### Complexity
 Where usable science arguably is a clear outcome, predicting the future is very complex. First of all, it is very difficult to test and validate whether the models used are accurate. In the context of sea level, the modelling framework is an interplay of very small models, ranging from ice sheets, glaciers, and rivers, to the movement of water due to land vertical movement. This gives rise to a number of sources of uncertainty: from the lack of data and modelling quality, as well as a lack of knowledge. Climate and weather can also be a bit "random", thus the models need to be run multiple times to account for any dynamics that might be missed. Looking at the range of possible outcomes, from a large number of model runs is what we call an "ensemble". Usually, scientists take the average value of this ensemble, as this would be the most likely outcome, but take the variability of these outcomes into account to look at the confidence.
 
-Another large uncertainty is **policy-based climate mitigation**, where the decisions made can impact the CO2 emissions, as well as socio-economic response to climate change. Therefore, climate scientists run a large number of simulations, under these future scenarios.
+Another large uncertainty is **policy-based climate mitigation**, where the decisions made can impact the CO2 emissions, as well as the socio-economic response to climate change. Therefore, climate scientists run a large number of simulations under these future scenarios.
 
 <!-- Callout / pull-quote block -->
 <div class="post-callout">
-  "How high is the sea going to be in 2100?" Do I need to build a 2 metre dyke? What future flood line do I use for insurance purposes?
+  How high is the sea going to be in 2100? What future flood line do I use for insurance purposes?
 </div>
-
-Stay tuned for more reflections, including a recent trip to a "usable science" conference in Montreal!
 
 <hr class="post-divider">
 
-#### A red thread
-On the practitioner panel, one thing became clear: those projections until 2300 are not relevant to communities and coastal populations NOW. Let alone can politicians use any projections when the research is so uncertain about future projections.
+#### A silver lining
+On the practitioner panel, one thing became clear: those projections until 2300 are **not relevant to communities** and coastal populations *NOW*. Let alone can politicians use any projections when the research is so uncertain about future projections. 
 
-#### Summary for Policy-Makers
-So from all this complex analysis in the IPCC, what should be communicated to policy-makers, and what complexity is helpful? And is this up to the scientists to decide?
+Luckily, the scientists all agreed that until 2050, the climate models are actually quite certain about what will happen in the future. The effects of cutting emissions will only be visible at longer timescales, as a lot of damage has already been done. These irreversible changes to sea level rise, for example, the *doomed* melting of a glacier, are called **commitments**. This means that we already have a sense of what is definitely going to happen; we just don't know exactly what. And this notion of **certainty until 2050** was what could form the starting point of usable science. What do we know? And how can we use it?
+
+#### IPCC's summary for Policy-Makers
+From all this complex analysis in the IPCC, only a number of outcomes will be communicated in the summary for policy-makers. At the conference, the degree of complexity was discussed, as well as the difficulty of presenting results. As a scientist, your role is to show nuance in the results you found and to highlight their many limitations. But if you are making urgent decisions on climate adaptation, the decisions have to be made now. And critically, scientists might not be qualified to know what results are going to be useful. And critically, climate change can get quite political, as for example in the US, scientists are not allowed to mention the term in their communications - a direct conflict with the role of providing objective analysis. 
+
+#### So how do I do usable science?
+A clear conclusion from the conference is that we need to collaborate, and that the potential impact of the work needs to be considered prior to designing a research project. Moreover, the way the results are presented depends a lot on who you are presenting to. 
+
+<!-- Callout / pull-quote block -->
+<div class="post-callout">
+  The usability of your science is a function of: research design, result presentation, communication, and collaboration.
+</div>
+
+<hr class="post-divider">
