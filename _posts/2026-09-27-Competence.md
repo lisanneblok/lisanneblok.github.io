@@ -2,7 +2,7 @@
 layout: post
 title: "Competence-Likeability trade-off"
 date: 2026-09-27
-thumbnail: /images/Women.jpg
+thumbnail: /images/Women.jpeg
 keywords: [academia, science, career]
 excerpt: "Can women not be both competent and likeable?"
 ---
@@ -86,15 +86,16 @@ excerpt: "Can women not be both competent and likeable?"
 <!-- Thumbnail wrapping into text -->
 <figure class="post-thumb-wrap">
   <img src="{{ page.thumbnail }}" alt="{{ page.title }}">
-  <figcaption>Woman in leadership(Forbes)</figcaption>
+  <figcaption>Woman in leadership (Forbes)</figcaption>
 </figure>
 
 ## Can competence and likeability co-exist?
 ### A letter to my male fellow colleagues
-<blockquote
-“Yes, so actually I sometimes disagree with your methods sorry - do you know what I mean? They’re good, but maybe just a bit wrong, I think. Super sorry!”</blockquote>
-In a professional context as a PhD student, I'd rather you think that I cannot explain something than that you don’t like the feedback I give. And I’d rather 
-And all this time during this conversation, I would have smiled. Because the fear of becoming unlikeable outweighs the frustration of having to listen to these confident yet mistaken men.
+
+> “Yes, so actually I sometimes disagree with your methods sorry - do you know what I mean? They’re good, but maybe just a bit wrong, I think. Super sorry!”
+
+In a professional context as a PhD student, I'd rather you think that I cannot explain something than that you don’t like the feedback I give. And I’d rather seem less intelligent if that means we're still on good terms.
+And all this time during this conversation, I would have smiled. And all this time I would have hoped the other person would be less confident and more like me. Because for me, the fear of becoming unlikeable outweighs the frustration of having to listen to these confident -yet mistaken- men.
 
 Seems highly unproductive, doesn’t it? Yet, many studies have shown that “likeability” is an important factor in women’s performance in careers.
 
@@ -102,21 +103,15 @@ Seems highly unproductive, doesn’t it? Yet, many studies have shown that “li
 Even professionally, being “likeable” and dressing charmingly has paid off considerably in getting people to listen to me. I would attribute a few poster and presentation prizes to the fact, the jury liked being in my company whilst I discussed my PhD work. As much as it’s a grey area, one cannot deny the fact that it pays off for a woman to be nice.
 
 #### Likeability penalty
-Rewarding women for being nice has many negative aspects too. As the opposite of nice and appeasement are often considered as “leadership qualities”: negotiation, being ambitious, speaking up, being assertive <p><a href="[https://pubmed.ncbi.nlm.nih.gov/21639606/](as found in this study)"> </a><p>. As what we see as good managerial skills are considered <p><a href="[[https://pubmed.ncbi.nlm.nih.gov/21639606/](as masculine)"> </a><p>. 
-As women have demonstrated they are as competent as men in previous years, and public polls show confidence in female leadership, the challenge remains tackling the <p><a href="[[https://www.researchgate.net/publication/400034969_The_Competence-Likability_Dilemma_for_Women_in_Leadership_An_Empirical_Review)](likeability penalty.)"> </a><p>. 
-Women who display competence in the workplace experience more hostility, and in a 2024 study, over half of women are ranked as “unlikeable” in performance feedback. This is a case of perception of violation of stereotypes, such as warmth and accommodative traits. For example, in academic lecturing, women were judged on teaching effectiveness based on “warmth”. Women are also taught not to be aggressive, and would behave that way when they negotiate for salaries (https://www.wisebread.com/why-women-dont-negotiate) – which is a big factor in the gender pay gap. Climbing the career ladder also becomes a Catch-22: adopt traditional male qualities to survive at the top, at the expense of positive performance feedback. Being seen as nice and warm, can also make people think you are incompetent and unintelligent – as if that’s even a trade-off. These inequalities and difficulties are more noticed in reports for women of colour (https://explore.textio.com/feedback-bias-2024?submissionGuid=a8e78e1f-cfe4-4073-b3a4-bf3f902862a4). 
-
+Rewarding women for being nice has many negative aspects too. As the opposite of nice and appeasement are often considered as “leadership qualities”: negotiation, being ambitious, speaking up, being assertive, [as found in this study](https://pubmed.ncbi.nlm.nih.gov/21639606/). As what we see as good managerial skills are considered [as masculine](https://pubmed.ncbi.nlm.nih.gov/21639606/).
+As women have demonstrated they are as competent as men in previous years, and public polls show confidence in female leadership, the challenge remains tackling the [likeability penalty](https://www.researchgate.net/publication/400034969_The_Competence-Likability_Dilemma_for_Women_in_Leadership_An_Empirical_Review).
+Women who display competence in the workplace experience more hostility, and in a 2024 study, over half of women are ranked as “unlikeable” in performance feedback. This is a case of perception of violation of stereotypes, such as warmth and accommodative traits. For example, in academic lecturing, women were judged on teaching effectiveness based on “warmth”. Women are also taught not to be aggressive, and would behave that way when they [negotiate for salaries](https://www.wisebread.com/why-women-dont-negotiate) – which is a big factor in the gender pay gap. Climbing the career ladder also becomes a Catch-22: adopt traditional male qualities to survive at the top, at the expense of positive performance feedback. Being seen as nice and warm, can also make people think you are incompetent and unintelligent – as if that’s even a trade-off. These inequalities and difficulties are more noticed in reports for [women of colour](https://explore.textio.com/feedback-bias-2024).
 
 #### Understand your bias
 So, my dear male colleague. Please do encourage women to be ambitious and be unlikeable. But also don’t penalise them for it, and understand the bias that you have. Competence and likeability are not a trade-off, and we should all be judged for what we can do, not on what we don’t do (such as being unfriendly).
-A women’s smile often means she’s hiding her thoughts, leaving ambition and productivity behind. Because women don’t owe you pretty and don’t owe you being nice. 
-
+A women’s smile often means she’s hiding her thoughts, leaving ambition and productivity behind. Because women don’t owe you pretty and don’t owe you being nice.
 
 <div style="clear:both"></div>
-
-<hr class="post-divider">
-
-- <hr class="post-divider">
 
 <hr class="post-divider">
 
