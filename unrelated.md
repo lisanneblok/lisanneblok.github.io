@@ -229,7 +229,7 @@ permalink: /unrelated/
       </li>
       <li>
         <strong>On something everyday</strong>
-        Should we be watching the FIFA world cup with its corruption and political implications, where fans aren't even let into the country?
+ Should we feel shame about flying, or are real world political forcings and rich people's behaviour so dominant that you might as well fly to see your family in a world that's going down anyways? (sorry a bit dark, but maybe prioritising "having fun" is a more positive spin on this?
       </li>
       <li>
         <strong>On something you've changed your mind about</strong>
@@ -245,6 +245,7 @@ permalink: /unrelated/
       <li>
         <strong>A book</strong>
         Yesteryear - Claro Clare Burke. Thoughts on trad wives?
+  
       </li>
       <li>
         <strong>A film or series</strong>
