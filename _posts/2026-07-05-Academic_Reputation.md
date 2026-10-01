@@ -90,8 +90,8 @@ excerpt: "Academic Reputation"
 </figure>
 
 ## How to get people to listen to you (not)
-It is the power of the email address, the inclusion of the logo on your poster, automatic credibility: my university has got a huge reputation. It is hard not to notice that people want to network with you, or share an automatic interest in the people at Cambridge you collaborate with. Academics get invited to speak at the BBC, write children's books, and are leaders in their field - and I have easy access to them or might even know them. I might even become them.
-Because if Newton could revolutionise what we understand of physics and Darwin could threaten the foundations of certain religions, why should I not have something useful to say? And surely the ones changing the world work at world leading institutions ( - imagine if we also listened to the ones that work hard, what great advancements we could make).
+It is the power of the email addres and the inclusion of the logo on your poster which gives me  credibility automatically: I cannot deny the fact that my university has got a huge reputation. It is hard not to notice that people want to network with you, or share an immediate interest in the people at Cambridge you collaborate with. Academics get invited to speak at the BBC, write children's books, and are leaders in their field - and I have easy access to them or might even know them. I might even become one of them.
+Because if Newton could revolutionise what we understand of physics and Darwin could threaten the foundations of certain religions, why should I (with similar starting experiences) not have something useful to say? And surely the ones changing the world work at world leading institutions ( - imagine if we would also listen to the ones that work hard. What great advancements we could make..).
 
 <div style="clear:both"></div>
 
@@ -103,14 +103,15 @@ At Cambridge, we often close the laptops much earlier, as we need time to get re
 
 ### Reputation into an Opportunity
 But what if it IS these *formals* that make external researchers want to visit Cambridge, and it IS *traditions*, and what if it IS about *legacy*? What if reputation is a key factor? Critically, reputation is one of the factors considered in the [ranking](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking). Creating world leading institutions is a long and continious process, and perhaps the government and the public simply have the habit of listening to institutions that have been shaping its policies for the last decades. 
-Many people in Cambridge have an **imposter syndrome**, where they experience pressure to achieve similar things as the ones before them (remember when I mentioned Newton..). Because it IS hard to get into good universities.
+Many people in Cambridge have an **imposter syndrome**, where they experience pressure to achieve similar things as the ones before them (remember when I mentioned Newton..). Because it IS hard to get into good universities, and it IS hard to stay at them.
 
 In an academic discussion, someone mentioned they always put "**Potential collaboration with Cambridge**" as their email subject. We all found that a ridiculous and elitist suggestion, but the more we discussed it, the more it grew on us: why fight elitism and the reputation, and why not make use of it? Why not take good account of this credibility? We want to make a difference and ultimately we need to make use of this great position. And the same goes for these academic institutions in a global framework.
 
 ### Role of Western Institutions
-It was research of Imperial College London that shaped many countries' COVID-19 policies, and overall European instutions have contribited to [strong societal changes](https://www.eua.eu/our-work/expert-voices/europe-s-universities-are-catalysts-for-social-transformation.html). 
+The long history of scientific contributions by Western Universities has resulted in credibility. And that is exactly what is needed in making important (political) decisions. It was research of Imperial College London that shaped many countries' COVID-19 policies, and overall European instutions have contribited to [strong societal changes](https://www.eua.eu/our-work/expert-voices/europe-s-universities-are-catalysts-for-social-transformation.html). Through institutional memory of great working being done, standards are high, connections to politics are strong, and great scientists have been attracted to this place for years on end.
 
-- Europe has the institutions to succeed in the gobal ecosystem.
+So as an early career scientists, I should acknowledge the breath of experience and successes of the students and academics before them. At formals, I should remember the boundaries of science that the ones on the paintings have pushed. And I should hold myself accountable to uphold that name. As should everyone at every other institution.
+
 
 - <hr class="post-divider">
 
