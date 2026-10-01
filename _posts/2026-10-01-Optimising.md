@@ -91,13 +91,13 @@ excerpt: "What young career people should aim to learn"
 
 ## Optimising optimisation
 
-<div style="clear:both"></div>
-
-<hr class="post-divider">
 
 #### Thirsty Thursday – July 2026 – London City
 
 After having battled the chaos of ordering a beer at a pub in central London, I find myself surrounded by young finance bros and university summer interns. I was invited by a group of old Cambridge friends who started a job in trading. Before I arrive, I am very specifically instructed NOT to mention I currently work at the civil service. Apparently saving turtles from plastics and abiding by the law are not my old friend’s priorities anymore, let alone “cool”. With a beer in one hand on standing on the street, my PhD friend mentions he’s been offered a six-figure job at a hedge fund. He’s debating if he should give up his dreams of becoming a professor. I ponder this decision for a while, balancing stability factors and working on something “good” and genuinely impactful. But I slowly realise all the thirsty Thursday attendees have already decided on this, and have let morals behind.
+<div style="clear:both"></div>
+
+<hr class="post-divider">
 
 ‘What to do next’ is an issue Gen Z is struggling with. We have always been told to get the best education, to aim for the highest job, and that great opportunities will come automatically. And to satisfy this ambition, the corporate world has advertised itself as the next big step in having a good career.
 But what has that brought us? You can now trade the most meaningless things (e.g. one can trade egg futures – whatever that might mean).  We now have a very complex financial system for the sake of doing fun mathematical calculations. We have LLMs to do the thinking and the work for us. We have outdone capitalism where the rich elite trade power and not money (and trade questionable highly illegal things). We have affected the climate up to a point where we have started to eliminate ourselves... All these developments are driven by optimising for getting more and more money.
