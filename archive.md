@@ -3,7 +3,7 @@ layout: page
 title: Blog Archive
 ---
 
-{%- assign all_keywords = site.posts | map: "keywords" | flatten | uniq | sort -%}
+{%- assign all_keywords = site.posts | map: "keywords" | flatten | compact | uniq | sort -%}
 
 {% for keyword in all_keywords %}
   <h3 id="{{ keyword | slugify }}">{{ keyword }}</h3>
