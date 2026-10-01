@@ -110,4 +110,17 @@ In an academic discussion, someone mentioned they always put "**Potential collab
 ### Role of Western Institutions
 It was research of Imperial College London that shaped many countries' COVID-19 policies, and overall European instutions have contribited to [strong societal changes](https://www.eua.eu/our-work/expert-voices/europe-s-universities-are-catalysts-for-social-transformation.html). 
 
-- Europe has the institutions to succeed in the flobal 
+- Europe has the institutions to succeed in the flobal
+
+- <hr class="post-divider">
+
+<hr class="post-divider">
+
+<script src="https://utteranc.es/client.js"
+        repo="lisanneblok/lisanneblok.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
