@@ -95,7 +95,7 @@ excerpt: "Can women not be both competent and likeable?"
 > “Yes, so actually I sometimes disagree with your methods sorry - do you know what I mean? They’re good, but maybe just a bit wrong, I think. Super sorry!”
 
 In a professional context as a PhD student, I'd rather you think that I cannot explain something than that you don’t like the feedback I give. And I’d rather seem less intelligent if that means we're still on good terms.
-And all this time during this conversation, I would have smiled. And all this time I would have hoped the other person would be less confident and more like me. Because for me, the fear of becoming unlikeable outweighs the frustration of having to listen to these confident -yet mistaken- men.
+Whilst saying the hypothetical quote above, I would have smiled continuously. And all this time I would have hoped the other person would have been less outspoken and a better listener. Because for me, the fear of becoming unlikeable outweighs the frustration of having to stand up to these confident -yet mistaken- men.
 
 Seems highly unproductive, doesn’t it? Yet, many studies have shown that “likeability” is an important factor in women’s performance in careers.
 
