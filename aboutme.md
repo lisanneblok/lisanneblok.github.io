@@ -330,6 +330,7 @@ permalink: /resume/
   <p class="section-label">Publications &amp; Research Outputs</p>
   <div class="prose-section">
     <p>
+      Most recent publication (24/09/2026): Spatiotemporal Variability and Large-Scale Drivers of Storm Surge Extremes on the Northwestern European Shelfh at ttps://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023795
       View my full list of publications and outputs on my
       <a href="https://orcid.org/0009-0006-5944-4169">ORCID profile</a>.
     </p>
